@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="7" time="39.703">
+    <testcase classname="Login Scenario" name="OrangeHRM Login Scenario" time="7.274">
+        <system-out>
+            <![CDATA[Given "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login" sitesini aç..passed
+When Login syfasında olduğunu doğrula.......................................passed
+And Enter username as "Admin"...............................................passed
+And Enter password as "admin123"............................................passed
+And Click Login button......................................................passed
+Then Verify on login page...................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Login Scenario" name="OrangeHRM Login Scenario 2" time="6.132">
+        <system-out>
+            <![CDATA[Given "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login" sitesini aç..passed
+When Login syfasında olduğunu doğrula.......................................passed
+And Enter username as "Admin"...............................................passed
+And Enter password as "admin123"............................................passed
+And Click Login button......................................................passed
+Then Verify on login page...................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Login Scenario" name="OrangeHRM Login Scenario 3" time="6.979">
+        <system-out>
+            <![CDATA[Given "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login" sitesini aç..passed
+When Login syfasında olduğunu doğrula.......................................passed
+And Enter username as "Admin"...............................................passed
+And Enter password as "admin123"............................................passed
+And Click Login button......................................................passed
+Then Verify on login page...................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Login Scenario" name="MoodleDemo sandbox Login with diff credentials" time="5.065">
+        <system-out>
+            <![CDATA[Given "https://sandbox.moodledemo.net/" sitesini aç.........................passed
+When Login linkine tıkla....................................................passed
+Then Giriş sayfasında olduğunu doğrula......................................passed
+And "admin" username gir....................................................passed
+And "sandbox" password gir..................................................passed
+Then Login butonuna tıkla...................................................passed
+Then "Welcome back, Admin! 👋" title'ın görüldüğünü doğrula.................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Login Scenario" name="MoodleDemo sandbox Login with diff credentials 2" time="4.768">
+        <system-out>
+            <![CDATA[Given "https://sandbox.moodledemo.net/" sitesini aç.........................passed
+When Login linkine tıkla....................................................passed
+Then Giriş sayfasında olduğunu doğrula......................................passed
+And "manager" username gir..................................................passed
+And "sandbox" password gir..................................................passed
+Then Login butonuna tıkla...................................................passed
+Then "Welcome back, Max! 👋" title'ın görüldüğünü doğrula...................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Login Scenario" name="MoodleDemo sandbox Login with diff credentials 3" time="4.655">
+        <system-out>
+            <![CDATA[Given "https://sandbox.moodledemo.net/" sitesini aç.........................passed
+When Login linkine tıkla....................................................passed
+Then Giriş sayfasında olduğunu doğrula......................................passed
+And "teacher" username gir..................................................passed
+And "sandbox" password gir..................................................passed
+Then Login butonuna tıkla...................................................passed
+Then "Welcome back, Terri! 👋" title'ın görüldüğünü doğrula.................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Login Scenario" name="MoodleDemo sandbox Login with diff credentials 4" time="4.592">
+        <system-out>
+            <![CDATA[Given "https://sandbox.moodledemo.net/" sitesini aç.........................passed
+When Login linkine tıkla....................................................passed
+Then Giriş sayfasında olduğunu doğrula......................................passed
+And "student" username gir..................................................passed
+And "sandbox" password gir..................................................passed
+Then Login butonuna tıkla...................................................passed
+Then "Welcome back, Sam! 👋" title'ın görüldüğünü doğrula...................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
