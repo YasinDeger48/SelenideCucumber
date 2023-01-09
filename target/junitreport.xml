@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="7" time="39.703">
-    <testcase classname="Login Scenario" name="OrangeHRM Login Scenario" time="7.274">
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="7" time="72.928">
+    <testcase classname="Login Scenario" name="OrangeHRM Login Scenario" time="16.676">
         <system-out>
             <![CDATA[Given "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login" sitesini aç..passed
 When Login syfasında olduğunu doğrula.......................................passed
@@ -11,7 +11,7 @@ Then Verify on login page...................................................pass
 ]]>
         </system-out>
     </testcase>
-    <testcase classname="Login Scenario" name="OrangeHRM Login Scenario 2" time="6.132">
+    <testcase classname="Login Scenario" name="OrangeHRM Login Scenario 2" time="5.324">
         <system-out>
             <![CDATA[Given "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login" sitesini aç..passed
 When Login syfasında olduğunu doğrula.......................................passed
@@ -22,7 +22,7 @@ Then Verify on login page...................................................pass
 ]]>
         </system-out>
     </testcase>
-    <testcase classname="Login Scenario" name="OrangeHRM Login Scenario 3" time="6.979">
+    <testcase classname="Login Scenario" name="OrangeHRM Login Scenario 3" time="7.743">
         <system-out>
             <![CDATA[Given "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login" sitesini aç..passed
 When Login syfasında olduğunu doğrula.......................................passed
@@ -33,7 +33,7 @@ Then Verify on login page...................................................pass
 ]]>
         </system-out>
     </testcase>
-    <testcase classname="Login Scenario" name="MoodleDemo sandbox Login with diff credentials" time="5.065">
+    <testcase classname="Login Scenario" name="MoodleDemo sandbox Login with diff credentials" time="7.781">
         <system-out>
             <![CDATA[Given "https://sandbox.moodledemo.net/" sitesini aç.........................passed
 When Login linkine tıkla....................................................passed
@@ -45,7 +45,7 @@ Then "Welcome back, Admin! 👋" title'ın görüldüğünü doğrula...........
 ]]>
         </system-out>
     </testcase>
-    <testcase classname="Login Scenario" name="MoodleDemo sandbox Login with diff credentials 2" time="4.768">
+    <testcase classname="Login Scenario" name="MoodleDemo sandbox Login with diff credentials 2" time="11.752">
         <system-out>
             <![CDATA[Given "https://sandbox.moodledemo.net/" sitesini aç.........................passed
 When Login linkine tıkla....................................................passed
@@ -57,7 +57,7 @@ Then "Welcome back, Max! 👋" title'ın görüldüğünü doğrula.............
 ]]>
         </system-out>
     </testcase>
-    <testcase classname="Login Scenario" name="MoodleDemo sandbox Login with diff credentials 3" time="4.655">
+    <testcase classname="Login Scenario" name="MoodleDemo sandbox Login with diff credentials 3" time="11.778">
         <system-out>
             <![CDATA[Given "https://sandbox.moodledemo.net/" sitesini aç.........................passed
 When Login linkine tıkla....................................................passed
@@ -69,7 +69,7 @@ Then "Welcome back, Terri! 👋" title'ın görüldüğünü doğrula...........
 ]]>
         </system-out>
     </testcase>
-    <testcase classname="Login Scenario" name="MoodleDemo sandbox Login with diff credentials 4" time="4.592">
+    <testcase classname="Login Scenario" name="MoodleDemo sandbox Login with diff credentials 4" time="11.67">
         <system-out>
             <![CDATA[Given "https://sandbox.moodledemo.net/" sitesini aç.........................passed
 When Login linkine tıkla....................................................passed

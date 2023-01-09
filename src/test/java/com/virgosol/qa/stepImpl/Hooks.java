@@ -16,6 +16,7 @@ public class Hooks {
 
     @Before
     public void setup(){
+        Configuration.headless=false;
         Configuration.browserSize = "1920x1080";
     }
 }
